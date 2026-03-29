@@ -7,7 +7,7 @@ body {
     overflow: hidden;
 }
 
-.content{
+.content {
     width: 100vw;
     height: 100vh;
     display:flex;
@@ -23,7 +23,7 @@ body {
     color: #1a1a1a;
 }
 
-.name p{
+.name p {
     margin: 0;
 }
 
